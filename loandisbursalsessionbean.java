@@ -1,6 +1,4 @@
 import java.util.Scanner;  
-import java.io.outputprinter;
-import java.io.inputprinter;
 import java.io.inner;
 public class SpiralPatternExample2
 {  
